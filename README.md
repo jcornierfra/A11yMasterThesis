@@ -22,7 +22,7 @@ Nous dresserons un état de l’art de l’accessibilité. Puis nous étudierons
 
 Pour la plateforme de démonstration, le prototype a été développé en deux versions :
 * Application Web "classique" dans Azure (Web App)
-* Application en Container Docker Linux stockés dans Azure Container Registry
+* Application en Container Docker Linux stocké dans Azure Container Registry
 
 Pipeline DevOps pour la version classique | Pipeline DevOps pour la version Docker
 -|-
