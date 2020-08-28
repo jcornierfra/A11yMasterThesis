@@ -25,8 +25,8 @@ Pour la plateforme de démonstration, le prototype a été développé en deux v
 * Application en Container Docker Linux stockés dans Azure Container Registry
 
 Pipeline DevOps pour la version classique | Pipeline DevOps pour la version Docker
--|-|-
-![Web App Classique](https://github.com/jcornierfra/LePetitFlo/blob/master/Screenshots/Ecran_principal.png "Web App Classique") | ![Web App Docker](https://github.com/CornierQuentin/LePetitFlo/blob/master/Screenshots/Menu.png "Web App Docker")
+-|-
+![Web App Classique](https://github.com/jcornierfra/A11yMasterThesis/blob/master/Screenshots/WebAppClassic.png "Web App Classique") | ![Web App Docker](https://github.com/jcornierfra/A11yMasterThesis/blob/master/Screenshots/WebAppDocker.png "Web App Docker")
 
 ## Pré-requis
 
