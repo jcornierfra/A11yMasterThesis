@@ -1,4 +1,4 @@
-# Comment implémenter les pratiques inclusives dans le Continuous Delivery Pipeline ?
+# Comment implémenter les pratiques inclusives dans le Continuous Delivery Pipeline
 
 Microsoft Skills Evolution Program, CentraleSupélec, Promotion 2018-2019
 
@@ -18,9 +18,10 @@ Au même moment la transformation digitale oblige les entreprises à multiplier 
 
 Nous dresserons un état de l’art de l’accessibilité. Puis nous étudierons en théorie et en pratique comment intégrer l’accessibilité dès la conception d’une solution et comment s’assurer que la chaîne DevOps dans un modèle agile dispose des moyens permettant de garantir cette accessibilité tout au long du cycle de vie du produit.
 
-## Prototype
+## Plateforme de démonstration
 
-Pour la plateforme de démonstration, le prototype a été développé en deux versions :
+Pour la plateforme de démonstration, un prototype a été développé en deux versions :
+
 * Application Web "classique" dans Azure (Web App)
 * Application en Container Docker Linux stocké dans Azure Container Registry
 
@@ -41,10 +42,12 @@ Les prérequis concernent la construction du prototype :
 Les programmes/logiciels/ressources utilisés pour rédiger ce Mémoire et construire le Prototype :
 
 ### Mémoire
+
 * [Microsoft 365](https://www.microsoft.com/fr-fr/microsoft-365) - Texte et présentation
 * [Zotero](https://www.zotero.org/) - Gestion des références avec intégration dans Word et les Navigateurs Web (facultatif pour la lecture du document)
 
 ### Prototype
+
 * [Visual Studio](https://visualstudio.microsoft.com/fr/) - EDI utilisé pour l'application test du prototype
 * [Microsoft Azure](https://azure.microsoft.com/fr-fr/) - Cloud Microsoft utilisé pour le pipeline DevOps et pour héberger l'application de test
 * [GitHub](https://github.com/) - Dépôt utilisé pour la source logicielle du prototype, Chaque modification entraîne une exécution des tâches du pipeline DevOps
@@ -57,16 +60,18 @@ Les programmes/logiciels/ressources utilisés pour rédiger ce Mémoire et const
     * [API axe-core](https://github.com/dequelabs/axe-core) - API du moteur de test Open Source Deque Axe implémenté dans l'Agent DevOps
 
 ### Dépôt
+
 * [Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown) - VS Code et les extensions markdown pour la création de ce README.md
 
 ## Mots clés
+
 Accessibilité, accessibility, A11y, WCAG, RGAA
 
 ## Versions
 
 Version disponible :
 
-- **Dernière version :** 1.1 Avril 2019
+* **Dernière version :** 1.1 Avril 2019
 
 ## Auteur
 
